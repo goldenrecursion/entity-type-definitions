@@ -1,0 +1,1 @@
+A person refers to a human being, whether an adult or child, who is considered to have certain capacities or attributes, which may include reason, morality, consciousness, or self-consciousness.  Person includes those living and deceased. Person does not include fictional characters.
