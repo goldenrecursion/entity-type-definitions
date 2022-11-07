@@ -1,4 +1,4 @@
-### Entity naming convention:
+## Entity naming convention:
 
 - Name should be in English, except in the case of English language works with a full or partial non-English title. Ex. _The 400 Blows_, not _Les Quatre Cents Coups. Chocolat (2000 film) not Chocolate (2000 film)_.
 - If the official name of the creative work is in another language, it should be added to the `Official Name` field, and other widely used variations may be added to `Also Known As`.
