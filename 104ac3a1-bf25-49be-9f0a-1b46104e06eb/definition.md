@@ -1,0 +1,1 @@
+A strategic partnership is an arrangement between two companies to undertake a mutually beneficial project. Companies may enter into a strategic partnership to expand into a new market, introduce improvements to a product line, or to undertake other mutually beneficial projects.
