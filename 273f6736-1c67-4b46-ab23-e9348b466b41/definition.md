@@ -1,0 +1,1 @@
+Legislation is the preparation and enactment of laws by a government's legislative body through its lawmaking process. The legislative process includes bills (a legislative proposal before it becomes law) which become laws once the legislative process is complete.  Legislation does not include policy created by the executive branch.
