@@ -1,4 +1,4 @@
-### Entity naming convention:
+## Entity naming convention:
 
 - Capitalization, spacing, punctuation, and other styling should match that of the name on the official website or other page controlled by the organization.
 - Name should be the current name of the organization.  If the name has changed, past names should be added to `Previous Name`.
