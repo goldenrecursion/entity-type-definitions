@@ -1,0 +1,1 @@
+Location refers to an established geographical area or region, as well as the area relative to where something else is located. Regions and areas include cities and towns, counties, states, countries, continental sections (such as continents), and other places.
